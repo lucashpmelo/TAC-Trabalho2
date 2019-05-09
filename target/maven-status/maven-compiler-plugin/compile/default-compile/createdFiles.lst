@@ -1,0 +1,12 @@
+br\edu\utfpr\md\webapp\db\CarroDAO.class
+br\edu\utfpr\md\webapp\resources\TesteResource.class
+br\edu\utfpr\md\webapp\converter\ObjectIdGsonConverter.class
+br\edu\utfpr\md\webapp\resources\AuthResource.class
+br\edu\utfpr\md\webapp\db\DAOFactory.class
+br\edu\utfpr\md\webapp\model\Carro.class
+br\edu\utfpr\md\webapp\db\MongoClientProvider.class
+br\edu\utfpr\md\webapp\resources\CarroResource.class
+br\edu\utfpr\md\webapp\security\JWTUtil.class
+br\edu\utfpr\md\webapp\model\Pessoa.class
+br\edu\utfpr\md\webapp\security\SecurityInterceptor.class
+br\edu\utfpr\md\webapp\security\Autenticado.class
