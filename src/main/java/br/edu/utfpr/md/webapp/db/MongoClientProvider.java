@@ -25,7 +25,7 @@ public class MongoClientProvider implements Serializable {
     @PostConstruct
     public void init() {
         if (mongo == null) {
-            mongo = new MongoClient("localhost:27017");
+            mongo = new MongoClient("192.168.56.101:27017");
         }
         if (datastore == null) {
             Morphia morphia = new Morphia();
